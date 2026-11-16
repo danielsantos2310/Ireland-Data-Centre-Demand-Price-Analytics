@@ -1,0 +1,8 @@
+window,relationship,correlation
+full_2015_2025,levels_dc_vs_electricity,0.8840667187208631
+full_2015_2025,levels_dc_share_vs_electricity,0.8826104357473388
+full_2015_2025,growth_dc_vs_electricity,0.7015578120120264
+full_2015_2025,growth_gas_vs_electricity,0.953488342126716
+pre_2021,levels_dc_vs_electricity,-0.6092052436009383
+2021_onward,levels_dc_vs_electricity,0.5492978091164883
+2021_onward,levels_gas_vs_electricity,0.9868518722512656
