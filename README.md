@@ -2,6 +2,13 @@
 
 **Project 03 — Ireland / Energy / Data**
 
+## Live project
+
+- **Interactive website:** https://danielsantos2310.github.io/Ireland-Data-Centre-Demand-Price-Analytics/
+- **Open the analysis in Colab:** https://colab.research.google.com/github/danielsantos2310/Ireland-Data-Centre-Demand-Price-Analytics/blob/b9b77a90905c791c6a524730ba0ea9700222a0be/notebooks/Ireland_Data_Centre_Demand_x_Price_Analytics_Final.ipynb
+- **GitHub repository:** https://github.com/danielsantos2310/Ireland-Data-Centre-Demand-Price-Analytics
+
+
 > **Are Ireland's data centres driving electricity prices?**
 
 This project combines the public outputs of Project 01 (data-centre electricity demand) and Project 02 (business electricity prices) to test whether rising data-centre electricity demand adds meaningful explanatory or predictive power once major energy-market drivers are accounted for.
