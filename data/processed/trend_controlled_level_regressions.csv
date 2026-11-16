@@ -1,0 +1,3 @@
+model,observations,r_squared,adj_r_squared,dc_coefficient,dc_p_value_hac,aic
+Price ~ time + gas + wholesale,14,0.9904453782257913,0.9875789916935287,,,30.94358588149797
+Price ~ time + gas + wholesale + DC,14,0.9915789510482155,0.9878362626252001,-0.003941615689479365,0.2109599089632027,31.175517569042658
