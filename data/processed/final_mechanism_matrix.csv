@@ -1,0 +1,5 @@
+mechanism,pathway,evidence,limitation
+Direct short-run energy-price channel,Gas / wholesale market → supplier energy cost → retail price,Strong evidence for 2021–2023 shock,DC demand is not the dominant identified driver
+Indirect network/capacity channel,Demand growth → grid/capacity investment → network tariffs,Plausible and policy-supported,DC-specific allocation cannot be isolated
+Long-run system adequacy channel,Large-load growth → generation / flexibility / connection requirements,Plausible,Requires system-model or counterfactual allocation
+Private procurement channel,PPAs / hedging / negotiated contracts,Material but unobserved,Public Band IG data cannot recover actual DC tariffs
