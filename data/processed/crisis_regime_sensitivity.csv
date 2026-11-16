@@ -1,0 +1,21 @@
+window,relationship,observations,correlation
+full_2015_2025,levels: DC demand vs electricity price,22,0.8840667187208633
+full_2015_2025,levels: gas vs electricity price,22,0.9931295978287608
+full_2015_2025,YoY growth: DC vs electricity price,20,0.7015578120120267
+full_2015_2025,YoY growth: gas vs electricity price,20,0.9534883421267161
+pre_crisis_2015S1_2021S1,levels: DC demand vs electricity price,13,0.029986224748039657
+pre_crisis_2015S1_2021S1,levels: gas vs electricity price,13,0.5195368860119858
+pre_crisis_2015S1_2021S1,YoY growth: DC vs electricity price,11,0.8056956747710522
+pre_crisis_2015S1_2021S1,YoY growth: gas vs electricity price,11,0.66595114157473
+crisis_2021S2_2023S2,levels: DC demand vs electricity price,5,0.6450101666684159
+crisis_2021S2_2023S2,levels: gas vs electricity price,5,0.987530534247228
+crisis_2021S2_2023S2,YoY growth: DC vs electricity price,5,0.9669579619754971
+crisis_2021S2_2023S2,YoY growth: gas vs electricity price,5,0.9377111984746173
+post_crisis_2024S1_2025S2,levels: DC demand vs electricity price,4,0.08040611002388011
+post_crisis_2024S1_2025S2,levels: gas vs electricity price,4,0.8992151092573001
+post_crisis_2024S1_2025S2,YoY growth: DC vs electricity price,4,0.38592210009596756
+post_crisis_2024S1_2025S2,YoY growth: gas vs electricity price,4,0.9347071956111032
+excluding_crisis_window,levels: DC demand vs electricity price,17,0.944558785930617
+excluding_crisis_window,levels: gas vs electricity price,17,0.9895771344057432
+excluding_crisis_window,YoY growth: DC vs electricity price,15,0.567632478986543
+excluding_crisis_window,YoY growth: gas vs electricity price,15,0.728753471166491
