@@ -1,0 +1,5 @@
+metric,value,observations
+Correlation: DC demand level vs IG network component,0.4884574333374834,8
+Correlation: DC share vs IG network component,0.4419588965065204,8
+2024 IG network component c/kWh,0.88,1
+2025 IG network component c/kWh,3.04,1
