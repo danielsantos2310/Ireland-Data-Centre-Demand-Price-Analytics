@@ -1,0 +1,7 @@
+question,finding,evidence_strength,interpretation
+Did data-centre electricity demand rise materially?,Yes — from about 5% of metered demand in 2015 to 23% in 2025.,High,"Observed fact, not causal inference."
+Do DC demand and business electricity-price levels correlate?,"Yes, strongly over the full 2015–2025 window.",High association / low causal value,Trending levels and regime instability make the raw correlation unsafe for causal claims.
+Did gas and wholesale electricity explain the 2021–2023 price shock?,"Yes, much more directly than DC demand in growth/change models.",Strong,Short-run retail-price shock is primarily energy-market driven in this dataset.
+Does adding DC demand improve out-of-sample price prediction?,Not robustly. Tested DC features/lags do not consistently beat stronger baselines.,Weak / mixed,No robust incremental predictive evidence from the available small sample.
+Could DC growth contribute indirectly through network/capacity requirements?,"Plausible, but public data do not isolate a DC-specific share of network cost.",Moderate mechanism / weak attribution,"Network-cost channel should be described as plausible, not quantified causally."
+Can Project 03 estimate the actual electricity tariff paid by data centres?,No.,Not identifiable from public data,"Band IG is a benchmark only; private contracts, PPAs and connection arrangements are not observed."
