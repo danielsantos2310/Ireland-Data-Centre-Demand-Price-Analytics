@@ -45,3 +45,14 @@ canvas{display:block;width:100%;height:390px}
  .ev{grid-template-columns:1fr}.mechanism{grid-template-columns:1fr}.arrow{transform:rotate(90deg)}
 }
 @media(max-width:560px){.metric-row,.grid2,.grid3,.sources{grid-template-columns:1fr}.hero{padding-top:70px}.wrap{width:min(100% - 26px,1160px)}}
+
+
+/* Project 03: keep dark mechanism cards readable inside light sections. */
+.section.light .mech-box{
+  background:var(--surface);
+  border-color:#24424f;
+  color:var(--text);
+}
+.section.light .mech-box h3{color:var(--text)}
+.section.light .mech-box p{color:#c8d5da}
+.section.light .mech-box .kicker{color:var(--cyan)}
